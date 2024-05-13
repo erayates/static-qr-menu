@@ -22,6 +22,22 @@ body {
   max-width: 1280px;
   min-height: 100vh;
   margin: 0 auto;
+  padding: 32px;
+}
+
+.logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: "100%";
+}
+
+.menu-title{
+  font-size: 26px;
+}
+
+.menu-title span {
+  font-weight: bold;
 }
 
 .category-list{

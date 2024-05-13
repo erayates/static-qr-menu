@@ -17,13 +17,11 @@ export default function CategoryItem({
   const [selected, setSelected] = useState(false);
 
   const onCategoryClick = (e: React.MouseEvent) => {
-    // İlk önce önceki seçilen elemanın arka plan rengini sıfırla
     const previouslySelected = document.querySelector(".selected");
     if (previouslySelected) {
       previouslySelected.classList.remove("selected");
     }
 
-    // Şu anki elemanı seç ve arka plan rengini ayarla
     categoryRef.current?.classList.add("selected");
 
     if (value === "all") {

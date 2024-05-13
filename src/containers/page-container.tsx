@@ -12,7 +12,7 @@ export default function PageContainer() {
 
   return (
     <main className="p-8 md:p-12 container">
-      <div className="flex justify-center items-center">
+      <div className="logo">
         <Image
           src="/assets/images/logo.png"
           width={250}
@@ -21,8 +21,8 @@ export default function PageContainer() {
         />
       </div>
       <div className="mt-5">
-        <h1 className="text-3xl">
-          <span className="font-medium">Keşif</span>
+        <h1 className="menu-title">
+          <span>Keşif</span>
           &nbsp;Menu
         </h1>
 
