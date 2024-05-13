@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "Classic Waffle",
+    "category": "waffle",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Provident, repellat, sint laborum minus dicta corrupti, ipsa aliquid aliqua autem iure ad commodi nostrum atque animi aperiam a facilis temporaveritatis?",
+    "price": 150,
+    "image": "/assets/images/waffle/classic-waffle.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "Chocolate Waffle",
+    "category": "waffle",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Provident, repellat, sint laborum minus dicta corrupti, ipsa aliquid aliqua autem iure ad commodi nostrum atque animi aperiam a facilis temporaveritatis?",
+    "price": 200,
+    "image": "/assets/images/waffle/cho-waffle.jpg"
+  }
+]

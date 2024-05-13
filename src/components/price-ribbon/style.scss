@@ -1,0 +1,55 @@
+.price {
+    position: absolute;
+    top: 170px; right: -15px;
+    font-size: 12px;
+    margin: 0;
+    font-variation-settings: 'wdth' 75, 'wght' 500;
+    letter-spacing: 0.5px;
+    padding: 5px 20px 5px 10px;
+    color: white;
+    background-color: rgb(7, 206, 4);
+    filter: drop-shadow(0 2px 4px rgb(0 0 0 / 50%));
+    border-radius: 0 0 10px;
+    transition: padding 0.5s ease-out;
+
+    &::before {
+        position: relative;
+        z-index: 1;
+    }
+
+    &::after {
+        content: '';
+        position: absolute;
+        top: -7px; right: 0;
+        display: block;
+        width: 15px;
+        height: 7px;
+        background-color: rgb(7, 206, 4);
+        filter: brightness(65%);
+        clip-path: polygon(0 0, 0 100%, 100% 100%);
+    }
+
+    div {
+        position: absolute;
+        left: -15px;
+        border-color: rgb(7, 206, 4) transparent;
+        border-style: solid;
+
+        &.ribbonTop {
+            top: 0;
+            border-radius: 5px 0 0;
+            border-width: 25px 25px 0;
+        }
+
+        &.ribbonBottom {
+            bottom: 0;
+            border-radius: 0 0 0 5px;
+            border-width: 0 25px 25px;
+        }
+    }
+
+    span {
+        position: relative;
+        color: white;
+    }
+}
