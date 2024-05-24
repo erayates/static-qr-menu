@@ -9,11 +9,11 @@
   },
   {
     "id": 2,
-    "name": "Last Summer Special Waffle 2",
+    "name": "Last Summer Special Spaghetti Waffle",
     "category": "waffle",
     "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Provident, repellat, sint laborum minus dicta corrupti, ipsa aliquid aliqua autem iure ad commodi nostrum atque animi aperiam a facilis temporaveritatis?",
     "price": 150,
-    "image": "/assets/images/waffle/cho-waffle.jpg"
+    "image": "/assets/images/waffle/last-summer-special-spaghetti.png"
   },
   {
     "id": 3,
