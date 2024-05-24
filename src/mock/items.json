@@ -1,18 +1,154 @@
 [
   {
     "id": 1,
-    "name": "Classic Waffle",
+    "name": "Last Summer Special Waffle",
     "category": "waffle",
     "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Provident, repellat, sint laborum minus dicta corrupti, ipsa aliquid aliqua autem iure ad commodi nostrum atque animi aperiam a facilis temporaveritatis?",
     "price": 150,
-    "image": "/assets/images/waffle/classic-waffle.jpeg"
+    "image": "/assets/images/waffle/last-summer-special.jpg"
   },
   {
     "id": 2,
-    "name": "Chocolate Waffle",
+    "name": "Last Summer Special Waffle 2",
     "category": "waffle",
     "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Provident, repellat, sint laborum minus dicta corrupti, ipsa aliquid aliqua autem iure ad commodi nostrum atque animi aperiam a facilis temporaveritatis?",
-    "price": 200,
+    "price": 150,
     "image": "/assets/images/waffle/cho-waffle.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Toblerone Ice Cream",
+    "category": "ice-cream",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Provident, repellat, sint laborum minus dicta corrupti, ipsa aliquid aliqua autem iure ad commodi nostrum atque animi aperiam a facilis temporaveritatis?",
+    "price": 80,
+    "image": "/assets/images/ice-creams/toblerone.png"
+  },
+  {
+    "id": 4,
+    "name": "Oreo Ice Cream",
+    "category": "ice-cream",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Provident, repellat, sint laborum minus dicta corrupti, ipsa aliquid aliqua autem iure ad commodi nostrum atque animi aperiam a facilis temporaveritatis?",
+    "price": 80,
+    "image": "/assets/images/ice-creams/oreo.png"
+  },
+  {
+    "id": 5,
+    "name": "Vanilla Cream",
+    "category": "ice-cream",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Provident, repellat, sint laborum minus dicta corrupti, ipsa aliquid aliqua autem iure ad commodi nostrum atque animi aperiam a facilis temporaveritatis?",
+    "price": 80,
+    "image": "/assets/images/ice-creams/vanilla.png"
+  },
+  {
+    "id": 6,
+    "name": "Kadayıf Ice Cream",
+    "category": "ice-cream",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Provident, repellat, sint laborum minus dicta corrupti, ipsa aliquid aliqua autem iure ad commodi nostrum atque animi aperiam a facilis temporaveritatis?",
+    "price": 80,
+    "image": "/assets/images/ice-creams/kadayif.png"
+  },
+  {
+    "id": 7,
+    "name": "Pistachios (Antep Fıstığı) Ice Cream",
+    "category": "ice-cream",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Provident, repellat, sint laborum minus dicta corrupti, ipsa aliquid aliqua autem iure ad commodi nostrum atque animi aperiam a facilis temporaveritatis?",
+    "price": 80,
+    "image": "/assets/images/ice-creams/antep-fistigi.png"
+  },
+  {
+    "id": 8,
+    "name": "Black Mulberry (Karadut) Ice Cream",
+    "category": "ice-cream",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Provident, repellat, sint laborum minus dicta corrupti, ipsa aliquid aliqua autem iure ad commodi nostrum atque animi aperiam a facilis temporaveritatis?",
+    "price": 80,
+    "image": "/assets/images/ice-creams/black-mulberry.png"
+  },
+  {
+    "id": 9,
+    "name": "Blue Sky Ice Cream",
+    "category": "ice-cream",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Provident, repellat, sint laborum minus dicta corrupti, ipsa aliquid aliqua autem iure ad commodi nostrum atque animi aperiam a facilis temporaveritatis?",
+    "price": 80,
+    "image": "/assets/images/ice-creams/blue-sky.png"
+  },
+  {
+    "id": 10,
+    "name": "Bubble Gum Ice Cream",
+    "category": "ice-cream",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Provident, repellat, sint laborum minus dicta corrupti, ipsa aliquid aliqua autem iure ad commodi nostrum atque animi aperiam a facilis temporaveritatis?",
+    "price": 80,
+    "image": "/assets/images/ice-creams/bubble-gum.png"
+  },
+  {
+    "id": 11,
+    "name": "Caramel Ice Cream",
+    "category": "ice-cream",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Provident, repellat, sint laborum minus dicta corrupti, ipsa aliquid aliqua autem iure ad commodi nostrum atque animi aperiam a facilis temporaveritatis?",
+    "price": 80,
+    "image": "/assets/images/ice-creams/caramel.webp"
+  },
+  {
+    "id": 12,
+    "name": "Cherry Ice Cream",
+    "category": "ice-cream",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Provident, repellat, sint laborum minus dicta corrupti, ipsa aliquid aliqua autem iure ad commodi nostrum atque animi aperiam a facilis temporaveritatis?",
+    "price": 80,
+    "image": "/assets/images/ice-creams/cherry.png"
+  },
+  {
+    "id": 13,
+    "name": "Chocolate Ice Cream",
+    "category": "ice-cream",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Provident, repellat, sint laborum minus dicta corrupti, ipsa aliquid aliqua autem iure ad commodi nostrum atque animi aperiam a facilis temporaveritatis?",
+    "price": 80,
+    "image": "/assets/images/ice-creams/chocolate.png"
+  },
+  {
+    "id": 14,
+    "name": "Fruit Festival Ice Cream",
+    "category": "ice-cream",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Provident, repellat, sint laborum minus dicta corrupti, ipsa aliquid aliqua autem iure ad commodi nostrum atque animi aperiam a facilis temporaveritatis?",
+    "price": 80,
+    "image": "/assets/images/ice-creams/fruit-festival.png"
+  },
+  {
+    "id": 15,
+    "name": "Honey Almond Ice Cream",
+    "category": "ice-cream",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Provident, repellat, sint laborum minus dicta corrupti, ipsa aliquid aliqua autem iure ad commodi nostrum atque animi aperiam a facilis temporaveritatis?",
+    "price": 80,
+    "image": "/assets/images/ice-creams/honey-almond.png"
+  },
+  {
+    "id": 16,
+    "name": "Lemon Ice Cream",
+    "category": "ice-cream",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Provident, repellat, sint laborum minus dicta corrupti, ipsa aliquid aliqua autem iure ad commodi nostrum atque animi aperiam a facilis temporaveritatis?",
+    "price": 80,
+    "image": "/assets/images/ice-creams/lemon.png"
+  },
+  {
+    "id": 17,
+    "name": "Melon Ice Cream",
+    "category": "ice-cream",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Provident, repellat, sint laborum minus dicta corrupti, ipsa aliquid aliqua autem iure ad commodi nostrum atque animi aperiam a facilis temporaveritatis?",
+    "price": 80,
+    "image": "/assets/images/ice-creams/melon.png"
+  },
+  {
+    "id": 18,
+    "name": "Mint (Nane) Ice Cream",
+    "category": "ice-cream",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Provident, repellat, sint laborum minus dicta corrupti, ipsa aliquid aliqua autem iure ad commodi nostrum atque animi aperiam a facilis temporaveritatis?",
+    "price": 80,
+    "image": "/assets/images/ice-creams/nane.png"
+  },
+  {
+    "id": 19,
+    "name": "Strawberry Ice Cream",
+    "category": "ice-cream",
+    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Provident, repellat, sint laborum minus dicta corrupti, ipsa aliquid aliqua autem iure ad commodi nostrum atque animi aperiam a facilis temporaveritatis?",
+    "price": 80,
+    "image": "/assets/images/ice-creams/strawberry.png"
   }
 ]
